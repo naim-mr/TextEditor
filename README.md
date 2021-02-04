@@ -1,4 +1,6 @@
 <h1>Rapport Projet Editeur de Text</h1>
+Pour lancer l'executable : 1) se donner les droits 0644
+                           2) commande: ./editeur nomfichier 
 <h2>Affichage</h2>
 L'éditeur  est sensé fonctionner à partir de n'importe quel dimension.
 
